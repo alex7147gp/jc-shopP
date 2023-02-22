@@ -22,7 +22,8 @@
     "react-query": "^3.39.3",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.4",
-    "tailwindcss": "^2.2.19"
+    "tailwindcss": "^2.2.19",
+    "typescript": "^4.9.5"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "3.0.0",
